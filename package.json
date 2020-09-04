@@ -1,0 +1,19 @@
+{
+  "name": "pick-ur-meal",
+  "version": "1.0.0",
+  "description": "Hungry? Find you meal here.",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/pick-ur-meal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/pick-ur-meal/issues"
+  },
+  "homepage": "https://github.com/jaisharx/pick-ur-meal#readme"
+}
